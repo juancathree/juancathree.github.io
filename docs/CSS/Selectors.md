@@ -56,3 +56,36 @@ p#idDog-name {
   <span class="dog-name"> Roger </span>
 </p>
 ```
+
+```css
+/* p with span inside doesn't matter if isn't first level*/
+p span {
+  color: yellow;
+}
+
+/* strict first level */
+p > span {
+  color: yellow;
+}
+
+/* only affet span that preceded by p */
+p + span {
+  color: yellow;
+}
+```
+
+## Specifity
+!important > inline css > id > class > tag
+
+## Attribute presence
+Operators to match:
+  - = equals
+  - *= contains
+  - ^= starts
+  - $= ends
+  - |= starts and followed by dash
+```css
+p[id='my-id'] {
+  /* ... */
+}
+```
