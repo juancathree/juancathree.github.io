@@ -2,6 +2,7 @@
 layout: default
 title: Variables
 parent: Syntax basics
+nav_order: 1
 grand_parent: Dart
 ---
 
