@@ -2,6 +2,7 @@
 layout: default
 title: Imports
 parent: Syntax basics
+nav_order: 3
 grand_parent: Dart
 ---
 
