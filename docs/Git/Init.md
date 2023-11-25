@@ -8,10 +8,10 @@ parent: Git
 
 # Init
 Initializing and cloning repositories
-```console
-// initialize an existing directory as a Git repository
-foo@bar:~$ git init
+```bash
+# initialize an existing directory as a Git repository
+$ git init
 
-// retrieve an entire repository from a hosted location via URL
-foo@bar:~$ git clone [url]
+# retrieve an entire repository from a hosted location via URL
+$ git clone [url]
 ```
