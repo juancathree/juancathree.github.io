@@ -83,7 +83,7 @@ Operators to match:
   - ***=** contains
   - **^=** starts
   - **$=** ends
-  - **(|=)** starts and followed by dash
+  - **dash=** starts and followed by dash
 
 ```css
 p[id='my-id'] {
