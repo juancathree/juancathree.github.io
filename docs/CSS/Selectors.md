@@ -79,11 +79,12 @@ p + span {
 
 ## Attribute presence
 Operators to match:
-  - = equals
-  - *= contains
-  - ^= starts
-  - $= ends
-  - |= starts and followed by dash
+  - **=** equals
+  - ***=** contains
+  - **^=** starts
+  - **$=** ends
+  - **|=** starts and followed by dash
+
 ```css
 p[id='my-id'] {
   /* ... */
