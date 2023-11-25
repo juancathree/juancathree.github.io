@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setup & init
+title: Init
 nav_order: 2
 has_children: false
 parent: Git
