@@ -2,6 +2,7 @@
 layout: default
 title: Operators
 parent: Syntax basics
+nav_order: 2
 grand_parent: Dart
 ---
 
