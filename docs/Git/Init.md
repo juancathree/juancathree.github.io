@@ -6,7 +6,7 @@ has_children: false
 parent: Git
 ---
 
-# Setup & init
+# Init
 Initializing and cloning repositories
 ```console
 // initialize an existing directory as a Git repository
