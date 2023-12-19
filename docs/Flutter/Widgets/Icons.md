@@ -6,8 +6,13 @@ grand_parent: Flutter
 ---
 
 # Icons
-A graphical [icon](https://api.flutter.dev/flutter/widgets/Icon-class.html){:target="\_blank"} widget.
 
-<p align="center">
-  <img src="/assets/images/iconsFlutter.png" alt="drawing" width="600"/>
-</p>
+```dart
+Icon(
+  Icons.star,
+  size: 50.0,
+  color: Colors.yellow,
+  semanticLabel: 'Yellow Star',
+  textDirection: TextDirection.ltr,
+),
+```
