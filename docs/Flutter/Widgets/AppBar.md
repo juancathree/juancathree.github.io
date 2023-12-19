@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Expanded
+title: App Bar
 parent: Widgets
 grand_parent: Flutter
 nav_order: 12
