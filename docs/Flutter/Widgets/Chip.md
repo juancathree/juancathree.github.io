@@ -3,7 +3,7 @@ layout: default
 title: Align
 parent: Widgets
 grand_parent: Flutter
-nav_order: 16
+nav_order: 17
 ---
 
 # Chip
