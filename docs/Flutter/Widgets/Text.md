@@ -6,10 +6,21 @@ grand_parent: Flutter
 ---
 
 # Text
-The [Text](https://api.flutter.dev/flutter/widgets/Text-class.html){:target="\_blank"} widget displays a string of text with single style. The string might break across multiple lines or might all be displayed on the same line depending on the layout constraints.
 
-The [style](https://api.flutter.dev/flutter/painting/TextStyle-class.html){:target="\_blank"} argument is optional.
-
-<p align="center">
-  <img src="/assets/images/textFlutter.png" alt="drawing" width="600"/>
-</p>
+```dart
+Text(
+  'Hello, Flutter!',
+  style: TextStyle(
+    fontSize: 24.0,
+    color: Colors.blue,
+    fontWeight: FontWeight.bold,
+    fontStyle: FontStyle.italic,
+    letterSpacing: 1.5,
+    wordSpacing: 2.0,
+    decoration: TextDecoration.underline,
+    decorationColor: Colors.red,
+    decorationStyle: TextDecorationStyle.dashed,
+    fontFamily: 'Roboto', // You should have this font in your project
+  ),
+)
+```
