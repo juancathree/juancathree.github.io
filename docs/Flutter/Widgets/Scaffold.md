@@ -3,6 +3,7 @@ layout: default
 title: Scaffold
 parent: Widgets
 grand_parent: Flutter
+nav_order: 1
 ---
 
 # Scaffold
