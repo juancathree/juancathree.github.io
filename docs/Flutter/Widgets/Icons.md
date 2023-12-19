@@ -3,6 +3,7 @@ layout: default
 title: Icons
 parent: Widgets
 grand_parent: Flutter
+nav_order: 5
 ---
 
 # Icons
