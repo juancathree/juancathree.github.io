@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Padding
-nav_order: 2
-parent: Flutter
+parent: Widgets
+grand_parent: Flutter
+nav_order: 3
 ---
 
 # Padding
