@@ -3,6 +3,7 @@ layout: default
 title: Text
 parent: Widgets
 grand_parent: Flutter
+nav_order: 2
 ---
 
 # Text
