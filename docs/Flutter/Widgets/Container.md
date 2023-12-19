@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Container
-nav_order: 3
-parent: Flutter
+parent: Widgets
+grand_parent: Flutter
+nav_order: 6
 ---
 
 # Container
